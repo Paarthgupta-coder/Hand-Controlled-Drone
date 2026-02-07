@@ -5,7 +5,7 @@ An AI-powered gesture control interface for drones using Computer Vision and Mac
 
 ## 📌 Project Status: Active Development
 **Current Version:** 1.0 (Random Forest Implementation)
-**Note:** The current repository contains the stable version of the project utilizing **MediaPipe Landmarks** and a **Random Forest (RF)** classifier. I am currently developing a more advanced **Convolutional Neural Network (CNN)** architecture to enhance recognition accuracy in complex backgrounds. Updates to the CNN "Brain" will be pushed to this repo shortly.
+**Note:** The current repository contains the stable version of the project utilizing **MediaPipe Landmarks** and a **Random Forest (RF)** classifier. I am currently working on **Convolutional Neural Network (CNN)** architecture to enhance recognition accuracy in complex backgrounds. Updates to the CNN "Brain" will be pushed to this repo shortly.
 
 ## 🛠 Features
 - **11+ Gestures:** Takeoff, Land, Flip, Up, Down, Forward, Backward, Rotate, and more.
